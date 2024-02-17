@@ -1,0 +1,17 @@
+.bg-blue {
+    background-color: #003b95;
+}
+
+.outline-none {
+    outline: none;
+    border: none;
+}
+
+.ml-custom {
+    margin-left: 12%;
+}
+
+.background-img-child {
+    background: url(images/293799350.jpeg) no-repeat;
+    background-size:cover ;
+}
